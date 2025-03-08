@@ -1,11 +1,2 @@
 ﻿  test.c
-D:\code\初学\Project21\Project21\test.c(111,11): warning C4047: “函数”:“int (__cdecl *)(int,int)”与“int *”的间接级别不同
-D:\code\初学\Project21\Project21\test.c(111,11): warning C4024: “cal”: 形参和实参 1 的类型不同
-D:\code\初学\Project21\Project21\test.c(114,11): warning C4047: “函数”:“int (__cdecl *)(int,int)”与“int *”的间接级别不同
-D:\code\初学\Project21\Project21\test.c(114,11): warning C4024: “cal”: 形参和实参 1 的类型不同
-D:\code\初学\Project21\Project21\test.c(117,11): warning C4047: “函数”:“int (__cdecl *)(int,int)”与“int *”的间接级别不同
-D:\code\初学\Project21\Project21\test.c(117,11): warning C4024: “cal”: 形参和实参 1 的类型不同
-D:\code\初学\Project21\Project21\test.c(120,11): warning C4047: “函数”:“int (__cdecl *)(int,int)”与“int *”的间接级别不同
-D:\code\初学\Project21\Project21\test.c(120,11): warning C4024: “cal”: 形参和实参 1 的类型不同
-D:\code\初学\Project21\Project21\test.c(107,9): warning C4047: “初始化”:“int *”与“int (__cdecl *)(int,int)”的间接级别不同
   Project21.vcxproj -> D:\code\初学\Project21\x64\Debug\Project21.exe
