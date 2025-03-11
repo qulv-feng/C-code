@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\初学\Project23\Project23\test.c(76,26): warning C4090: “函数”: 不同的“const”限定符
+  Project23.vcxproj -> D:\code\初学\Project23\Debug\Project23.exe

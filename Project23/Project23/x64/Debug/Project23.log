@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\初学\Project23\Project23\test.c(34,12): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Project23.vcxproj -> D:\code\初学\Project23\x64\Debug\Project23.exe
