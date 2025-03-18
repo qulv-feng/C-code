@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\\u521D\u5B66\\Project25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D608C8C2-AE9D-45EA-BFE7-CE670EA3416E}|Project25\\Project25.vcxproj|D:\\code\\\u521D\u5B66\\Project25\\Project25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D608C8C2-AE9D-45EA-BFE7-CE670EA3416E}|Project25\\Project25.vcxproj|solutionrelative:Project25\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\\u521D\u5B66\\Project25\\Project25\\test.c",
+              "RelativeDocumentMoniker": "Project25\\test.c",
+              "ToolTip": "D:\\code\\\u521D\u5B66\\Project25\\Project25\\test.c",
+              "RelativeToolTip": "Project25\\test.c",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T02:15:22.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
