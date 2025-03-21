@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\初学\Project27\Project27\test.c(8,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\初学\Project27\Project27\test.c(10,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\code\初学\Project27\Project27\test.c(41,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project27.vcxproj -> D:\code\初学\Project27\x64\Debug\Project27.exe
