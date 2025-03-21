@@ -1,0 +1,7 @@
+﻿  test.c
+D:\code\初学\Day2\test.c(109,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\初学\Day2\test.c(123,6): error C2084: 函数“void spin(char *,int)”已有主体
+      D:\code\初学\Day2\test.c(106,6):
+      参见“spin”的前一个定义
+  
+D:\code\初学\Day2\test.c(125,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
