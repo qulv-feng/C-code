@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\初学\Project30\Project30\test.c(75,1): warning C4715: “Max_Comnun_Find”: 不是所有的控件路径都返回值
+  Project30.vcxproj -> D:\code\初学\Project30\Debug\Project30.exe
