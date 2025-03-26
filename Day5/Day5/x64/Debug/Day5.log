@@ -1,0 +1,7 @@
+﻿  test.c
+D:\code\初学\Day5\test.c(58,8): warning C4047: “=”:“int”与“S *”的间接级别不同
+D:\code\初学\Day5\test.c(59,10): warning C4133: “=”: 从“S *”到“int *”的类型不兼容
+D:\code\初学\Day5\test.c(60,11): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\code\初学\Day5\test.c(86,12): warning C4133: “=”: 从“Str *”到“int *”的类型不兼容
+D:\code\初学\Day5\test.c(91,9): warning C4022: “free”: 指针与实参 1 不匹配
+D:\code\初学\Day5\test.c(57,1): error C4700: 使用了未初始化的局部变量“s1”
